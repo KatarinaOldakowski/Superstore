@@ -1,7 +1,7 @@
 # Welcome to the Superstore Dashboard with DAX - Data Analysis Project Repository! 🧮
 
-This repository offers a comprehensive dataset, leverages data analysis techniques, and unveils valuable data insights. I aim to showcase my skills in data cleaning, exploration, visualization, and interpretation.
-The primary goal is to extract meaningful insights and conclusions from the provided datasets.
+This repository offers a comprehensive dataset, leverages data analysis techniques, and unveils valuable data insights. I aim to showcase my visualization and interpretation.
+The primary goal is to extract meaningful insights and conclusions from the provided dataset.
 
 ## Table of Contents
 - [Introduction]
@@ -13,7 +13,8 @@ The primary goal is to extract meaningful insights and conclusions from the prov
 
 ## Introduction
 
-
+This dataset contains sales data from an online store who sales furniture, office supplies and tech stuff across world in years 2012-2015. 
+This project solely will focus on data visualization with some analysis to understand the condition inside the business and get a sense of what happend in the past.
 
 
 ## Project
